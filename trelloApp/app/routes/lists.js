@@ -6,4 +6,3 @@ export default Ember.Route.extend({
 	
 	}
 });
-// retorna los valores con ORM	
